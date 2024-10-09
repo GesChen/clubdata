@@ -18,34 +18,34 @@
     "upcomingevents":
     [
         {
-            "time":"10-16-24 | 4 - 8:30 PM",
+            "time":"10-16-24  4-8:30 PM",
             "title":"Windy City Cashola",
-            "description":"Windy City Pizza <a href=\"https://maps.app.goo.gl/x8ivYADirzoCVG7z8\" target=\"_blank\">(Google Maps link)</a>, ~$10-20"
+            "description":"Windy City Pizza <a href=\"https://maps.app.goo.gl/x8ivYADirzoCVG7z8\" target=\"_blank\">(Google Maps link)</a>, $10-20"
         },
         {
             "time":"10-25 or 10-26-24",
             "title":"Wicked Volunteering",
-            "description":""
+            "description":"Volunteering for the Wicked 10K, we will meet at the oceanfront (exact TBD)"
         },
         {
             "time":"11-13-24",
-            "title":"Chico's Cashola",
-            "description":""
+            "title":"Chicho's Cashola",
+            "description":"Chicho's Pizza Strawbridge <a href=\"https://maps.app.goo.gl/uBN4YCqRRGojC1Mv5\" target=\"_blank\">(Google Maps link)</a>, $10-20"
         },
         {
             "time":"1-11-25",
             "title":"Talent Show",
-            "description":"Hosted by the OL Theatre Company & Dolphin Dash"
+            "description":"Hosted by the OL Theatre Company & Dolphin Dash; tickets are $10"
         },
         {
             "time":"1-17-25",
             "title":"Winter Carnival",
-            "description":""
+            "description":"Our second biggest event, see below for details"
         },
         {
             "time":"5-17-25",
             "title":"5K Race/Mini Dash",
-            "description":""
+            "description":"Our biggest event, see below for details"
         }
     ]
 }
