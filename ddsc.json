@@ -16,16 +16,15 @@
         {
             "source":"Windy City Cashola",
             "amount":25
+        },
+        {
+            "source":"Wicked 10K Volunteering",
+            "amount":100
         }
     ],
     "nextmeeting":"10-30-24",
     "upcomingevents":
     [
-        {
-            "time":"Saturday 10-26-24",
-            "title":"Wicked 10K Volunteering",
-            "description":"Volunteering for the Wicked 10K, we will meet at the Convention center"
-        },
         {
             "time":"Wednesday 11-13-24",
             "title":"Chicho's Cashola",
