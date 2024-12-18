@@ -20,26 +20,19 @@
         {
             "source":"Wicked 10K Volunteering",
             "amount":100
+        },
+        {
+            "source":"Norfolk Harbor 5K",
+            "amount":150
+        },
+        {
+            "source":"Surfing Santa 5K",
+            "amount":150
         }
     ],
-    "nextmeeting":"10-30-24",
+    "nextmeeting":"1-8-25",
     "upcomingevents":
     [
-        {
-            "time":"Wednesday 11-13-24",
-            "title":"Chicho's Cashola",
-            "description":"Chicho's Pizza Strawbridge <a href=\"https://maps.app.goo.gl/uBN4YCqRRGojC1Mv5\" target=\"_blank\">(Google Maps link)</a>, $10-20"
-        },
-        {
-            "time":"Saturday 11-23-24",
-            "title":"Harborfest Race Volunteering",
-            "description":"Volunteering for the Harborfest Race, more info TBD."
-        },
-        {
-            "time":"12-13/14-24 ",
-            "title":"Surfing Santa Race Volunteering",
-            "description":"Volunteering for the Surfing Santa Race, handing out gingerbread cookies, more info TBD."
-        },
         {
             "time":"Wednesday 1-15-25",
             "title":"Chicho's Cashola",
