@@ -28,6 +28,18 @@
         {
             "source":"Surfing Santa 5K",
             "amount":150
+        },
+        {
+            "source":"SCA Donation",
+            "amount":150
+        },
+        {
+            "source":"Winter Carnival (Cash only)",
+            "amount":348
+        },
+        {
+            "source":"Officer for Winter Carnival",
+            "amount":-199
         }
     ],
     "nextmeeting":"2-5-25",
