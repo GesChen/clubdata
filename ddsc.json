@@ -40,7 +40,11 @@
         {
             "source":"Officer for Winter Carnival",
             "amount":-199
-        }
+        },
+        {
+            "source":"Talent Show",
+            "amount":853.5
+        }   
     ],
     "nextmeeting":"2-5-25",
     "upcomingevents":
